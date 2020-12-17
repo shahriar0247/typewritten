@@ -38,7 +38,7 @@ Clone the typewritten repository somewhere you can easily link. I recommend crea
 
 ```shell
 mkdir -p "$HOME/.zsh"
-git clone https://github.com/reobin/typewritten.git "$HOME/.zsh/typewritten"
+git clone https://github.com/shahriar0247/typewritten.git "$HOME/.zsh/typewritten"
 ```
 
 Load typewritten in your `.zshrc` by using zsh prompinit:
@@ -56,7 +56,7 @@ Note: if using `oh-my-zsh`, set `ZSH_THEME=""` in your `.zshrc` to disable oh-my
 Clone the repository into your custom oh-my-zsh themes directory:
 
 ```shell
-git clone https://github.com/reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
+git clone https://github.com/shahriar0247/typewritten.git $ZSH_CUSTOM/themes/typewritten
 ```
 
 Symlink `typewritten.zsh-theme` to your oh-my-zsh custom themes directory:
